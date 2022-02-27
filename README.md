@@ -1,4 +1,4 @@
-# HELLO COM OPENCV
+# HELLO WORLD COM OPENCV
 
 O que é OpenCV
 OpenCV (Open Source Computer Vision Library: http://www.opencv.org) é uma biblioteca (ou conjunto de bibliotecas) disponível para algumas linguagens de programação que visa oferecer um vasto ferramental para tratamento de imagens, visão computacional e reconhecimento de padrões.
